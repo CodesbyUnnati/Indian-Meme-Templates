@@ -217,12 +217,11 @@
         "description": "Rohit Sharma is confused",
         "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
   },
-  
-  {
-  "id": 32,
-        "name": "Pawri hori hai",
-        "description": "Pakistani blogger",
+    {
+        "id": 32,
+        "name": "Pawri Hori Hai",
+        "description": "Pakistani Blogger",
         "template": "https://indianmemetemplates.com/wp-content/uploads/Pawri-hori-hai.jpg"
-  }
+  },
 
 ]
