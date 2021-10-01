@@ -202,26 +202,285 @@
         "name": "Loading Cat",
         "description": "Loading cat meme template",
         "template": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Floading-cat&psig=AOvVaw0L_CoTiqR5EFi5LZ-z8ShR&ust=1633111847897000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiYpe-lp_MCFQAAAAAdAAAAABAD"
-  },
 
-   {
+  },
+  {
         "id": 30,
+        "name": "Eric Andre Let Me",
+        "description": "Eric Andre Let Me In meme",
+        "template": "https://i.pinimg.com/564x/de/47/82/de47820ea7961d454961102c3a4e91eb.jpg"
+  },
+   {
+        "id": 31,
         "name": "Baburao Meme",
         "description": "Bollywood Memes",
         "template": "https://static.langimg.com/thumb/msid-83084208,width-680,resizemode-3/navbharat-times.jpg"
     },
  
    {
-        "id": 31,
+        "id": 32,
         "name": "Rohit Sharma confused",
         "description": "Rohit Sharma is confused",
         "template": "https://indianmemetemplates.com/wp-content/uploads/rohit-sharma-in-the-dugout-1200x571.jpg"
   },
-    {
-        "id": 32,
-        "name": "Pawri Hori Hai",
-        "description": "Pakistani Blogger",
-        "template": "https://indianmemetemplates.com/wp-content/uploads/Pawri-hori-hai.jpg"
+  {
+        "id": 33,
+        "name": "Hard choice",
+        "description": "Meme template",
+        "template": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgflip.com%2Fmemetemplates&psig=AOvVaw2t1BVfGVuu1T2szbIjD2nR&ust=1633115510422000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi6ysGzp_MCFQAAAAAdAAAAABAD"
+    },
+   {
+        "id": 34,
+        "name": "Jethalal",
+        "description": "Kya takleef hai aapko",
+        "template": "https://images.app.goo.gl/4AVmg4B97LmPZQmo7"
+  },
+  {
+        "id": 35,
+        "name": "Shehnaaz Gill",
+        "description": "Kya Kru Mai mar Jau",
+        "template": "http://www.scrolldroll.com/wp-content/uploads/2021/01/Kya-karu-main-mar-jau-Viral-Indian-Meme-Templates-From-2020-01.jpg"
+    },
+  {
+        "id": 36,
+        "name": "Hrithik Roshan",
+        "description": "Its not funny",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/08/its-not-funny-znmd-meme-template-768x507.jpg" 
+  },
+  
+ {
+        "id": 37,
+        "name": "Jethalal",
+        "description": "aye pagal aurat",
+        "template": "https://www.ohyaaro.com/funny-memes-for-girlfriend-jethalal-memes/"
   },
 
+   {
+        "id": 38,
+        "name": "Meena Kota Factory S2",
+        "description": "Ajeeb se chitra ghumte hai dimag me",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/ajeeb-se-chitra-ghumte-rehte-hai-dimaag-mai.jpg"
+  },
+    {
+        "id": 39,
+        "name": "Jethalal",
+        "description": "aye pagal aurat",
+        "template": "https://www.ohyaaro.com/funny-memes-for-girlfriend-jethalal-memes/"
+
+  },
+  {
+        "id": 40,
+        "name": "Bahubabli",
+        "description": "Job problem 2021",
+        "template": "https://i.pinimg.com/originals/9b/6b/06/9b6b067742da9487aaa51dae6b01e355.jpg"
+    },
+  {
+        "id": 41,
+        "name": "Shivaji The boss",
+        "description": "Kyu hila dalla na",
+        "template": "https://humornama.com/wp-content/uploads/2020/08/Kyu-Hila-Dala-Na-meme-template-of-Rajinikanth-1024x576.jpg"
+    },
+  {
+        "id": 42,
+        "name": "kon tha?",
+        "description": "kon tha?-kokila",
+        "template": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhQEUY8EOFNfAiCwYSBR6m-eSDmms_JbiPQ&usqp=CAU"
+    },
+{
+        "id": 43,
+        "name": "Shivaji The Boss",
+        "description": "Kyu hila dala na",
+        "template": "https://res.cloudinary.com/purnesh/image/upload/w_1000,f_auto/untitled-11609312734291.jpg"
+},
+  {
+        "id": 44,
+        "name": "Akshay Kumar",
+        "description": "Paisa hi paisa hoga",
+        "template": "https://st1.bollywoodlife.com/wp-content/uploads/2020/09/FotoJet408.jpg"
+  },
+  {
+        "id": 45,
+        "name": "Wah Wah Wah",
+        "description": "Amir Liaquat Wah Wah Wah",
+        "template": "https://www.pinterest.com/pin/1028017052411789052/"
+    },
+   {
+        "id": 46,
+        "name": "IPL News",
+        "description": "Sad virat sitting in dressing room ",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/sad-virat-sitting-in-dressing-room-1024x686.jpg"
+  },
+  {
+        "id": 47,
+        "name": "Akshay Kumar",
+        "description": "Chal Jhootha ",
+        "template": "https://in.pinterest.com/pin/678354762605837422/?d=t&mt=login"
+  },
+   
+  {
+        "id": 48,
+        "name": "Neechey se check kar, neeche se",
+        "description": "3 Idiots - Raju checks marksheet",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/2019/01/neechey-se-check-kar.jpg"
+  },
+
+
+   {
+        "id": 49,
+        "name": "Sushil toh main hu hi",
+        "description": "Haseena dilruba",
+        "template": "https://memetemplatehouse.com/wp-content/uploads/2021/07/sushil-toh-main-hi-hi-haseen-dilruba.jpg"
+  },
+   {
+        "id": 50,
+        "name": "Gazab Bezzati hai yaar",
+        "description": "Panchayat",
+        "template": "https://www.scrolldroll.com/wp-content/uploads/2021/01/Ghazab-Bezzati-hai-yaar-Panchayat-Viral-Indian-Meme-Templates-From-2020-06-768x432.jpg"
+  },
+  {
+        "id": 51,
+        "name": "Tokna hoga , rokna hoga , aur samzana hoga",
+        "description": "modiji",
+        "template": "https://www.scrolldroll.com/wp-content/uploads/2021/01/Tokna-hoga-rokna-hoga-samjhana-hoga-Viral-Indian-Meme-Templates-From-2020-25-768x459.jpg"
+  },
+  {
+        "id": 52,
+        "name": "Rula diya na bechari ko",
+        "description": "bagban - Hema malini ",
+        "template": "https://www.scrolldroll.com/wp-content/uploads/2021/01/Rula-diya-na-bechari-ko-Baaghbaan-Viral-Indian-Meme-Templates-From-2020-47-768x430.jpg"
+  },
+   {
+        "id": 53,
+        "name": "Pata he hum match kaha hare",
+        "description": "msd - the untold story ",
+        "template": "https://humornama.com/wp-content/uploads/2021/09/Pata-Hai-Hum-Match-Kaha-Haare-Meme-Template-on-MS-Dhoni-movie-608x365.jpg"
+  },
+   {
+        "id": 54,
+        "name": "Ek kahani hai jo sabko sunani hai ",
+        "description": "carryminati Yalgaar ",
+        "template": "https://www.memestemplates.com/wp-content/uploads/2020/06/ek-kahani-hai-jo-sabko-sunani-hai.png"
+  },
+  {
+    "id":55,
+   "name":"ab Mood Nahi hai",
+   "description":"Scene from Ranjhana",
+   "template":"https://indianmemetemplates.com/ab-saala-mood-nahi/"
+  },
+  {
+        "id": 56,
+        "name": "Baburao Meme",
+        "description": "Bollywood Memes",
+        "template": "https://static.langimg.com/thumb/msid-83084208,width-680,resizemode-3/navbharat-times.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Abey Sale",
+        "description": "Abba harmoinum",
+        "template": "https://indianmemetemplates.com/abey-saale/"
+  },
+   {
+        "id": 58,
+        "name": "Pehli fursat mai nikal",
+        "description": "Hindustani bhau meme",
+        "template": "https://im.indiatimes.in/media/content/2019/Oct/hindustani_bhau_joins_bigg_boss_13_as_wild_card_entry__internet_has_declared_him_the_winner_already_1572154023.gif"
+    },
+  {
+        "id": 59,
+        "name": "kapil sharma",
+        "description": "Thug life Memes",
+        "template": "https://www.youtube.com/watch?v=Gae08ynfmCw"
+    },
+
+  {     "id": 60,
+        "name": "Amitabh Bacchan",
+        "description": "Guess karo hum kaha hai",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+  },
+    
+    {
+        "id": 61,
+        "name": "Rajnikant OP",
+        "description": "Thug life Memes",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/kyu-hilaa-daala-na.jpg"
+  },
+    
+  {     "id": 61,
+        "name": "Rasode me kaun tha!",
+        "description": "The meme template from Yashraj Mukhate’s viral video",
+        "template": "https://www.scrolldroll.com/wp-content/uploads/2021/01/Rasode-Me-Kon-Tha-Viral-Indian-Meme-Templates-From-2020-03.jpg"
+  },
+  {
+        "id": 62,
+        "name": "quby ",
+        "description": "aur batao",
+        "template": "https://i.pinimg.com/236x/02/99/60/029960efcef2ac18f7792c6ce74d29e2.jpg "
+  },
+   {
+    "id": 63,
+        "name": "quby",
+        "description": "Tcute",
+        "template": "https://images.app.goo.gl/J1WxPDJRUzsxUk3v7 "
+  },
+  {     "id": 63 ,
+        "name": "Amitabh Bacchan",
+        "description": "ek coroe",
+        "template": "https://images.app.goo.gl/rC1KQAWeRBMPtW5UA "
+    },
+    {     "id": 64,
+        "name": "abhi maza aayega na bhidu",
+        "description": "hera pheri meme",
+        "template": "https://cdn.dnaindia.com/sites/default/files/2020/08/14/919177-3-johnny-lever-birthday-memes.jpg"
+    },
+  {
+   "id": 65,
+        "name": "pankaj tripathi",
+        "description": "likh ke dta hu koi nhi ayega ",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+  },
+    {     "id": 66,
+        "name": "Amitabh Bacchan",
+        "description": "Guess karo hum kaha hai",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/guess-karo-hum-kaha-hai.jpg"
+    },
+  {
+        "id": 67,
+        "name": "Utha le re baba",
+        "description": "Hera Pheri Meme",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/utha-le-re-baba-1024x576.jpg"
+  },
+  {     "id": 68,
+        "name": "Salman khan",
+        "description": "New motor vehicle Act attract new memes",
+        "template": "https://www.orissapost.com/wp-content/uploads/2019/09/challan.jpg"
+   },
+  {     "id": 69,
+        "name": "Robin",
+        "description": "Ye bhi theek hai",
+        "template": "https://image.scoopwhoop.com/q30/s4.scoopwhoop.com/anj2/5fbf840818ac817d341a9fbf/f16d5285-6111-4622-8910-838611d03309.jpg"
+  },
+   {     "id": 70,
+        "name": "Baburao",
+        "description": "Saala mereko itna chota diya",
+        "template": "https://indianmemetemplates.com/saala-merko-itna-chota-diya/"
+    },
+  {     "id": 71,
+        "name": "Rajpal Yadav",
+        "description": "Aap kuch bhi bolo ye nahi sunne wala.",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/aap-kuch-bhi-bolo-ye-nahi-sunne-wala-768x432.jpg"
+    },
+  {     "id": 72,
+        "name": "Akshay Kumar",
+        "description": "Poori duniya se kaho copy that.",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/poori-duniya-se-kaho-copy-that.jpg"
+    },
+    {
+    "id": 73,
+        "name": "Pawri hori hai",
+        "description": "Pakistani blogger",
+        "template": "https://indianmemetemplates.com/wp-content/uploads/Pawri-hori-hai.jpg"
+  }
+     
+  
+  
 ]
